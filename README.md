@@ -10,11 +10,11 @@ Domain shifts due to microphone hardware heterogeneity pose challenges to machin
 Please refer to [PhyAug](https://github.com/jiegev5/PhyAug) for the details.
 
 ## Outline
-* [core.py](code/core.py): randomized smoothing on transformation space.
-* [fadro.py](code/fadro.py): Frequency-Aware Distributionally Robust Optimization.
-* [trans.py](code/trans.py): Adaptive Physics-informed Transform.
-* [train.py](code/train.py): training code.
-* [test.py](code/test.py): testing code.
+* [core.py](KWS/core.py): randomized smoothing on transformation space.
+* [fadro.py](KWS/fadro.py): Frequency-Aware Distributionally Robust Optimization.
+* [trans.py](KWS/trans.py): Adaptive Physics-informed Transform.
+* [train.py](KWS/train.py): training code.
+* [test.py](KWS/test.py): testing code.
 
 Other files are adopted from [PhyAug](https://github.com/jiegev5/PhyAug). 
 
