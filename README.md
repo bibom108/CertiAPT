@@ -20,7 +20,8 @@ Other files are adopted from [PhyAug](https://github.com/jiegev5/PhyAug).
 
 ## Citation
 
-```@article{10.1145/3749481,
+```
+@article{10.1145/3749481,
 author = {Nguyen, Phuc Duc and Dai, Yimin and Li, Xiao-Li and Tan, Rui},
 title = {Certified Robustness against Sensor Heterogeneity in Acoustic Sensing},
 year = {2025},
