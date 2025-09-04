@@ -25,12 +25,8 @@ Other files are adopted from [PhyAug](https://github.com/jiegev5/PhyAug).
 author = {Nguyen, Phuc Duc and Dai, Yimin and Li, Xiao-Li and Tan, Rui},
 title = {Certified Robustness against Sensor Heterogeneity in Acoustic Sensing},
 year = {2025},
-issue_date = {August 2025},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
 volume = {9},
 number = {3},
-url = {https://doi.org/10.1145/3749481},
 doi = {10.1145/3749481},
 journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
 }
