@@ -21,14 +21,15 @@ Other files are adopted from [PhyAug](https://github.com/jiegev5/PhyAug).
 ## Citation
 
 ```
-@article{10.1145/3749481,
-author = {Nguyen, Phuc Duc and Dai, Yimin and Li, Xiao-Li and Tan, Rui},
-title = {Certified Robustness against Sensor Heterogeneity in Acoustic Sensing},
-year = {2025},
-volume = {9},
-number = {3},
-doi = {10.1145/3749481},
-journal = {Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.},
+@article{nguyen2025certified,
+  title={Certified Robustness against Sensor Heterogeneity in Acoustic Sensing},
+  author={Nguyen, Phuc Duc and Dai, Yimin and Li, Xiao-Li and Tan, Rui},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={9},
+  number={3},
+  pages={1--30},
+  year={2025},
+  publisher={ACM New York, NY, USA}
 }
 ```
 
